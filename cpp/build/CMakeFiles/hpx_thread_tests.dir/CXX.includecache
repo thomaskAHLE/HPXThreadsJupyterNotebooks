@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/thomaskahle/hpx_thread_notebook_testing/cpp/source/cpp-hpx-thread-testing.cpp
+hpx/hpx_main.hpp
+-
+hpx/hpx.hpp
+-
+functional
+-
+
